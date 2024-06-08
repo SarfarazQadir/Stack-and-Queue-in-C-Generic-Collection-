@@ -4,5 +4,7 @@
 <h1>OutPut</h1>
 
 ![image](https://github.com/SarfarazQadir/Stack-and-Queue-in-C-Generic-Collection-/assets/144503703/e6ec557a-d33a-4d9d-84bd-eb79325dccb2)
+![Uploading image.png…]()
+
 
 
