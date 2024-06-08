@@ -1,0 +1,7 @@
+F:\C# by Miss Aqsa\Stack and Queue (Generic Collection)\Stack and Queue (Generic Collection)\bin\Debug\Stack and Queue (Generic Collection).exe.config
+F:\C# by Miss Aqsa\Stack and Queue (Generic Collection)\Stack and Queue (Generic Collection)\bin\Debug\Stack and Queue (Generic Collection).exe
+F:\C# by Miss Aqsa\Stack and Queue (Generic Collection)\Stack and Queue (Generic Collection)\bin\Debug\Stack and Queue (Generic Collection).pdb
+F:\C# by Miss Aqsa\Stack and Queue (Generic Collection)\Stack and Queue (Generic Collection)\obj\Debug\Stack and Queue (Generic Collection).csproj.AssemblyReference.cache
+F:\C# by Miss Aqsa\Stack and Queue (Generic Collection)\Stack and Queue (Generic Collection)\obj\Debug\Stack and Queue (Generic Collection).csproj.CoreCompileInputs.cache
+F:\C# by Miss Aqsa\Stack and Queue (Generic Collection)\Stack and Queue (Generic Collection)\obj\Debug\Stack and Queue (Generic Collection).exe
+F:\C# by Miss Aqsa\Stack and Queue (Generic Collection)\Stack and Queue (Generic Collection)\obj\Debug\Stack and Queue (Generic Collection).pdb
